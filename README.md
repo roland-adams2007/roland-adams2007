@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi, I'm Adams Roland 👋<br><br>I'm a full-stack developer from :contentReference[oaicite:0]{index=0} passionate about building modern web applications and backend systems. I work with technologies like React, Laravel, Node.js, PHP, JavaScript, MySQL, PostgreSQL, Prisma, and Tailwind CSS.<br><br>I enjoy creating scalable projects that solve real problems — from learning portals and job boards to webhook tools, attendance systems, and custom backend architectures. I’m also interested in system design, authentication, APIs, payments, and developer tools.<br><br>Currently focused on improving my backend engineering skills, building production-ready projects, and growing as a software developer through hands-on development.
+# Hi, I'm Adams Roland 👋<br><br>I'm a full-stack developer from Nigeria, passionate about building modern web applications and backend systems. I work with technologies like React, Laravel, Node.js, PHP, JavaScript, MySQL, PostgreSQL, Prisma, and Tailwind CSS.<br><br>I enjoy creating scalable projects that solve real problems — from learning portals and job boards to webhook tools, attendance systems, and custom backend architectures. I’m also interested in system design, authentication, APIs, payments, and developer tools.<br><br>Currently focused on improving my backend engineering skills, building production-ready projects, and growing as a software developer through hands-on development.
 
 
 ## 🌐 Socials:
